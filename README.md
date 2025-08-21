@@ -1,5 +1,13 @@
-Hello!
+# Test Mini-Service
 
-This is a fake small service I made in order to test DevOps scripts.
+--
 
-Thank you for reading! Have a nice day.
+## What is this?
+
+This service is a small tester sandbox where I try new commands and pipelines to see how well they work.
+
+You do not have to download anything here, you are free to ignore this completely.
+
+Thank you.
+
+> Have a nice day. 
